@@ -1,0 +1,68 @@
+</html>
+    <html lang="fr">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Site Vitrine </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <nav>
+            <h1>Arsko <a href="#">Home</a>
+<div class="content">
+
+                <a href="#Accueil">Nos vetement</a>
+                <a href="# à propos">Nos activitées</a>
+                <a href="#contact">Contact</a>
+</div>
+</nav>
+<header>
+    <h1>Arsko shop,</h1>
+    <h4>LE MEILLEUR magasin de vetement en ligne.</h4>
+    <button>explorer</button>
+</header>
+<section class="main" id="produits">
+    <div class="content">
+        <div class="card">
+            <div class="left">
+                <h1>Nos vetement</h1>
+                <p>savourez votre style ave nos nouveaux nike tech fleece.</p>
+            </div>
+            <div class="right">
+                <img src="nike-sweat-a-capuche-et-zip-pour-homme-tech-fleece.webp=" width=" 350px" height="350">
+            </div>
+        </div>
+        <div class="card">
+            <div class="left">
+                <h1>Nos valeurs</h1>
+                <p>just do it. portez et laissez vous allez .</p>
+            </div>
+            <div class="right">
+                <img src="vgh.webp" width="
+350px" height="350px">
+            </div>
+        </div>
+    </div>
+</section>
+<footer>
+    <h1>Nos services</h1>
+    <div class="services">
+        <div class="service">
+            <h3>About Arsko shop</h3>
+            <p>follow us on instagram, twitter, facebook, snapchat and more.</p>
+        </div>
+        <div class="service">
+            <h3>à propos de nos vetements</h3>
+            <p>
+                actualité
+                carrières
+                investisseurs
+                développent à long terme.</p>
+        </div>
+    </div>
+    <p id="contact">Contact : 09 40 56 578 34 | &copy; 2023 Arsko SHOP.</p>
+</footer>
+</body>
